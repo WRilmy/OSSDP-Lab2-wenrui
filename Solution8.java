@@ -72,3 +72,4 @@ class Solution8 {
         return num_islands;
     }
 }
+//代码修改正确，题目所给样例均通过
